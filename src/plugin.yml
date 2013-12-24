@@ -1,0 +1,10 @@
+name: DOGDesk
+main: no.runsafe.dogdesk.DOGDesk
+version: 1.0.@BUILD@
+authors: []
+depend: []
+description:
+commands:
+  something:
+    description:
+    aliases: []
